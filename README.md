@@ -21,8 +21,6 @@ En el 2018 empeze a estudiar ingenieria de sistemas.
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 
-And more...
-
 ## Find me at:
 
 [![Facebook](https://img.shields.io/badge/Facebook-@John_Yulber_Inga_Lapa-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/0dejohn/)
