@@ -20,8 +20,6 @@ En el 2018 empeze a estudiar ingenieria de sistemas.
 [![Oracle](https://img.shields.io/badge/Oracle-47A248?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
-[![SPSS](https://img.shields.io/badge/SPSS-4479A1?style=for-the-badge&logo=ibm&logoColor=white&labelColor=101010)]()
-</br>
 
 And more...
 
