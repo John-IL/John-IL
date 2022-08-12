@@ -25,7 +25,7 @@ En el 2018 empeze a estudiar ingenieria de sistemas.
 
 [![Facebook](https://img.shields.io/badge/Facebook-@John_Yulber_Inga_Lapa-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/0dejohn/)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Yulber_Inga_Lapa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/john-yulber-inga-lapa-30a364185/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-John_Yulber_Inga_Lapa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/john-yulber-inga-lapa/)
 
 ## Contact & support:
 
