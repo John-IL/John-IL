@@ -1,4 +1,4 @@
-Bachiller en ingeniera de sistemas, a lo largo de esta me he enfocado en el desarrollo de software, especialmente en el lado del backend. Busco poder impulsar mi carrera y participar en proyectos interesantes que puedan aportar un valor agregado a las organizaciones.
+Bachiller en ingeniera de sistemas, a lo largo de esta me he enfocado en el desarrollo de software, especialmente en el desarrollo full stack. Busco poder impulsar mi carrera y participar en proyectos interesantes que puedan aportar un valor agregado a las organizaciones.
 
 
 ## Conocimientos:
