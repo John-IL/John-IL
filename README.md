@@ -38,4 +38,4 @@ Bachiller en ingeniera de sistemas, a lo largo de esta me he enfocado en el desa
 
 [![Email](https://img.shields.io/badge/johnyulberingalapa@gmail.com-correo_personal-D14836?style=for-the-badge7&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 </br>
-[![Phone](https://img.shields.io/badge/+51_912719166-FFDD00?style=for-the-badge&logo=phonepe&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
+[![Phone](https://img.shields.io/badge/+51_904218593-FFDD00?style=for-the-badge&logo=phonepe&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
