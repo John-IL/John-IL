@@ -36,6 +36,6 @@ Ingeniero de sistemas, a lo largo de esta me he enfocado en el desarrollo de sof
 
 ## Contacto:
 
-[![Email](https://img.shields.io/badge/johnyulberingalapa@gmail.com-correo_personal-D14836?style=for-the-badge7&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/johnyulberingalapa@gmail.com-correo_personal-D14836?style=for-the-badge7&logo=gmail&logoColor=white&labelColor=101010)](mailto:johnyulberingalapa@gmail.com)
 </br>
-[![Phone](https://img.shields.io/badge/+51_904218593-FFDD00?style=for-the-badge&logo=phonepe&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
+[![Phone](https://img.shields.io/badge/+51_912320501-FFDD00?style=for-the-badge&logo=phonepe&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
